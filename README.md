@@ -1,11 +1,17 @@
 About Me 
 # Stats
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydrixScripts&show_icons=true&theme=synthwave)
+</div>
 
-
+<div?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydrixScripts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 # Languages
+
+</div>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -16,13 +22,21 @@ About Me
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<div>
+  
 # OS Mastery
+
+<div>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
 
 # Knowledgebase
+
+</div>
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+<div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,6 +56,7 @@ About Me
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-```UNIVERSITY = {`
-`Full Sail / DeVry Univ.`
-}```
+[UNIVERSITY] = {
+Full_Sail_University,
+DeVry_University,
+} 
