@@ -4,8 +4,9 @@ About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydrixScripts&show_icons=true&theme=synthwave)
 </div>
 
-<div?
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydrixScripts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 # Languages
