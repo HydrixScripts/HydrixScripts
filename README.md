@@ -1,17 +1,14 @@
-About Me 
 # Stats
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydrixScripts&show_icons=true&theme=synthwave)
-</div>
 
-<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydrixScripts&show_icons=true&theme=synthwave)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydrixScripts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
 # Languages
 
-</div>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -23,7 +20,6 @@ About Me
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div>
   
 # OS Mastery
 
