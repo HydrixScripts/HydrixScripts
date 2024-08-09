@@ -16,6 +16,7 @@
 # Knowledgebase
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</div>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</div>![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+<div>(https://www.codewars.com/users/hydrixscripts/badges/large)<div>
 <div>
 
 <div>
