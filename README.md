@@ -38,9 +38,6 @@
 </div>
 
 </div>
-[UNIVERSITY] = {
-Full_Sail_University,
-DeVry_University,
-}
+FULL SAIL UNIVERSITY / PURDUE GLOBAL UNIVERSITY
 </div>
  
